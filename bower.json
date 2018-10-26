@@ -16,5 +16,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "3",
+    "font-awesome": "4",
+    "jasmine-core": "jasmine#^3.3.0"
+  }
 }
